@@ -1,0 +1,48 @@
+/* ==========================================================================
+   Faisal Iqbal custom styles
+   ========================================================================== */
+body{
+	padding-top: 50px;
+	color: #333;
+}
+.container{
+	width: 972px;
+}
+.navbar{
+	margin-bottom: 0;
+}
+.navbar-nav > li{
+	padding-right: 15px;
+}
+.navbar-nav>li>a{
+	font-weight: bold;
+	color: #fff;
+	font-size: 17px;
+	text-transform: uppercase;
+}
+.navbar-nav>li>a:hover, .navbar-nav>.active>a, .navbar-nav>li>a:focus{
+	background: none;
+	color: #ED1C24;
+}
+.navbar-toggle .icon-bar{
+	background: #fff;
+}
+footer{
+	background: #434550;
+}
+hr{
+	background: #ebebeb;
+	margin: 5px;
+}
+.breadcrumb{
+	background: none;
+	padding-left: 0;
+	margin-bottom: 0;
+}
+.breadcrumb > li{
+	font-size: 17px;
+}
+.breadcrumb > li + li:before{
+	color: #000;
+	content: "»";
+}

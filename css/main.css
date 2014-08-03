@@ -1,0 +1,566 @@
+
+
+/* ==========================================================================
+   Faisal Iqbal custom styles
+   ========================================================================== */
+a{
+	color:#333;
+}
+a:hover, a:focus{
+  text-decoration: underline;
+  color: #333;
+}
+.m-right-0{
+	margin-right: 0 !important; 
+}
+.m-left-0{
+	margin-left: 0 !important; 
+}
+.m-top-0{
+	margin-top: 0 !important; 
+}
+.m-bottom-0{
+	margin-bottom: 0 !important; 
+}
+.p-right-0{
+	padding-right: 0 !important; 
+}
+.p-left-0{
+	padding-left: 0 !important; 
+}
+.p-top-0{
+	padding-top: 0 !important; 
+}
+.p-bottom-0{
+	padding-bottom: 0 !important; 
+}
+.padding-10{
+	padding: 10px !important;
+}
+.m-top-10{
+	margin-top: 10px !important;
+}
+.m-top-22{
+	margin-top: 22px !important;
+}
+.p-bottom-10{
+	padding-bottom: 10px !important;
+}
+.p-right-15{
+	padding-right: 15px !important;
+}
+.free-msg{
+	padding-top: 20px;
+}
+.free-msg span{
+	color: #006092;
+	font-size: 20px;
+}
+.grey-bg{
+	background: #ebebeb;
+}
+.white-bg{
+	background: #fff;
+}
+.no-border-radius{
+	border-radius: 0;
+}
+.red-text{
+	color: #ED1C24;
+}
+.blue-color{
+	color: #006092;
+}
+.green-container{
+	background: #8dc63f;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.menu-background{
+	background: #434343;
+}
+.heading-bg{
+	background: #006092;
+	border-bottom: 2px solid #333;
+}
+.heading-bg h1{
+	color: #fff;
+	text-align: center; 
+}
+.banner-bg{
+	background: #fff;
+	padding-top: 10px;
+}
+.banner-bg img{
+	width: 100%;
+}
+.why-use-crm{
+	padding: 60px 0;
+}
+.why-use-crm .last-item{
+	width: 33%;
+	margin-right: 0;
+}
+.auto-box > li{
+	width: 30%;
+	margin-right: 3%;
+}
+
+.custom-btn{
+	width: 100%;
+	font-size: 30px;
+	border: none;
+	color: #fff;
+	position: relative;
+	text-align: center;
+	text-transform: uppercase;
+	border-radius: 15px;
+	padding: 10px;
+}
+.orange-btn{
+	background-color: #F26522;
+}
+.orange-btn-arrow{
+	background: url(../images/orange-button-arrow.png) top left no-repeat;
+	width: 65px;
+	height: 55px;
+	display: inline-block;
+}
+.blue-btn{
+	background-color: #00aeef;	
+}
+.blue-btn-arrow{
+	background: url(../images/blue-button-arrow.png) top left no-repeat;
+	width: 65px;
+	height: 55px;
+	display: inline-block;
+}
+.custom-btn span{
+	vertical-align: middle;
+	line-height: 55px;
+}
+.purple-btn{
+	background: #6e4199;
+}
+.purple-btn-arrow{
+	background: url(../images/secure-button-arrow.png) top left no-repeat;
+	width: 65px;
+	height: 55px;
+	display: inline-block;
+}
+.our-features{
+	background: #ebebeb;
+}
+.our-features .our-features-container{
+	padding: 20px 10px 30px 10px;
+}
+.tick-button-features{
+	background: url(../images/tick-button-features.png) no-repeat;
+	width: 45px;
+	height: 45px;
+	display: inline-block;
+	margin-right: 10px;	
+}
+.our-features-container h3{
+	border-bottom: 1px solid #333;
+	padding-bottom: 10px;
+	width: 93%;
+}
+.user-friendly-software{
+	background: #00a651;
+}
+.user-friendly-software .white-line{
+	margin: 20px 0;
+	background: #fff;
+	height: 8px; 
+}
+.user-friendly-container{
+	padding: 5px 25px 5px 0; 
+}
+.user-friendly-container h3{
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	margin-top: 2px;
+	margin-bottom: 3px;
+
+}
+.user-friendly-software-text{
+	background: #D9E5CB;
+}
+.user-friendly-software-text .user-friendly-software-text-container{
+	padding:10px 0 60px 0;
+}
+.user-friendly-icon{
+	background: url(../images/user-friendly-button-.png);
+	width: 165px;
+	height: 225px;
+	display: inline-block;
+	margin-top: -31px;
+}
+.crm-motive{
+	background: #006092;
+	margin-bottom: 30px;
+}
+.crm-motive .crm-motive-container{
+	padding: 20px 10px 30px 10px;
+}
+.arrow-button{
+	background: url(../images/arrow-button.png) no-repeat;
+	height: 40px;
+	width: 30px;
+	display: inline-block;
+	margin-right: 15px;
+}
+.crm-motive-container h3{
+	color: #fff;
+	border-bottom: 1px solid #fff;
+	padding-bottom: 10px;
+	width: 93%;
+}	
+.crm-motive-container p{
+	color: #fff;
+}
+.crm-top-companies{
+	background: #EAEAEA;
+}
+.crm-top-companies .crm-top-companies-container{
+	padding: 55px 0;
+}
+.crm-top-companies-container ul li{
+	padding-left: 0;
+}
+
+.footer-container{
+	padding: 12px 0 0 0;
+}
+.footer-container ul li{
+	padding-right: 23px;
+	color: #fff;
+}
+.social-icons ul li{
+	padding-right: 8px;
+	float: right;
+}
+.footer-container ul li a{
+	color: #fff;
+}
+.footer-container span{
+	color: #fff;
+	padding-left: 0;
+}	
+.footer-container input[type=text]{
+	background: #000;
+	border: 1px solid #000;
+	color: #b7b7b7;
+}
+.footer-container .btn-go{
+	background: #b7b7b7;
+	color: #000;
+}
+.footer-end{
+	height: 75px;
+}
+/* ==========================================================================
+   Features Page.
+   ========================================================================== */
+.inner-container{
+	padding: 40px 25px;
+}
+.inner-container .crm-features-icon{
+	background: url(../images/features-icon.png) no-repeat;
+	width: 55px;
+	height: 52px;
+	display: inline-block;
+	margin-right: 10px;
+}
+.inner-container .crm-faq-icon{
+	background: url(../images/faq-icon.png) no-repeat;
+	width: 32px;
+	height: 44px;
+	display: inline-block;
+	margin-right: 10px;
+}
+.inner-container .crm-contact-icon{
+	background: url(../images/call-us.png) no-repeat;
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	margin-right: 10px;
+}
+.inner-container .special-offers-icon{
+	background: url(../images/special-offers-icon.png) no-repeat;
+	width: 36px;
+	height: 36px;
+	display: inline-block;
+	margin-right: 10px;	
+}
+.inner-container .crm-register-icon{
+	background: url(../images/register-icon.png) no-repeat;
+	width: 34px;
+	height: 43px;
+	display: inline-block;
+	margin-right: 10px;		
+}
+.inner-container h2{
+	margin-top: 10px;
+}
+.inner-container p{
+	margin-top: 15px;
+}
+.inner-container-content-box{
+	padding: 0 35px 20px 35px;
+	margin-bottom: 10px;
+}
+.listing-bg{
+	background: #feefe8;
+}
+.leads-bg{
+	background: #d9f3fd;
+}
+.contacts-bg{
+	background: #ddebe0;
+}
+.marketing-bg{
+	background: #ece7f2;
+}
+.invite-bg{
+	background: #e7dbd0;
+}
+.emails-sms-alerts-bg{
+	background: #e7f0d9;
+}
+.circle-image{
+    width: 78px;
+    height: 78px;
+    border-radius: 50%;
+    display: inline-block;
+    background-position-y: 25%;
+    margin-top: 25px;
+}
+.circle-image.listing-circle-bg{
+	background-color: #f26522;
+}
+.circle-image.leads-circle-bg{
+	background-color: #00aeef;
+}
+.circle-image.contacts-circle-bg{
+	background-color: #197b30;
+}
+.circle-image.marketing-circle-bg{
+	background-color: #6e4199;
+}
+.circle-image.invite-circle-bg{
+	background-color: #9f6b3b;
+}
+.circle-image.emails-sms-alerts-circle-bg{
+	background-color: #5b9a03;		
+}
+.circle-image img{
+	margin: 20px 20px 20px 13px;	
+}
+.contact-call{
+	padding: 15px 10px;
+}
+.contact-call .contact-call-icon{
+	border: none;
+	background: url(../images/call-icon.png);
+	width: 200px;
+	height: 147px;
+	display: inline-block;
+}
+.contact-call span{
+	font-size: 16px;
+}
+.contact-call .large-size{
+	font-size: 20px;
+}
+/* ==========================================================================
+   FAQs Page.
+   ========================================================================== */
+.faq-inner-container{
+	padding: 10px 40px;
+	margin-bottom: 10px;
+}
+.faq-inner-container .red-question{
+	color: #ED1C24;
+	font-size: 30px;
+	font-weight: bold;
+	display: block;
+}
+.faq-inner-container .green-answer{
+	color: #005D1F;
+	font-size: 30px;
+	font-weight: bold;
+	display: block;
+}
+.faq-inner-container h3{
+	margin-top: 13px;
+	font-size: 20px;
+}
+.faq-inner-container hr{
+	background: #a1a1a1;
+	height: 1px;
+}
+
+/* ==========================================================================
+   Contact Us Page.
+   ========================================================================== */
+.contact-us-container{
+	padding: 20px 30px;
+}
+.contact-us-inner-container{
+	padding: 30px 40px 25px 40px;
+	margin-bottom: 10px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+	border: 1px solid #CCCCCC;
+}
+.contact-us-inner-container .btn-contact{
+	background: #454545;
+	color: #fff;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+.contact-us-inner-container .btn{
+	padding-top: 4px;
+	padding-bottom: 4px;  
+}
+.contact-us-container textarea{
+	min-height: 120px;
+}
+.contact-us-container .alert-danger{
+	margin-left: 178px;
+}
+
+/* ==========================================================================
+   Register Page.
+   ========================================================================== */
+.register-container{
+	padding: 30px 30px;
+}
+.register-inner-container{
+	padding: 10px 40px 25px 38px;
+	margin-bottom: 10px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+	border: 1px solid #CCCCCC;
+}
+.register-inner-container .btn-contact{
+	background: #454545;
+	color: #fff;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+.register-inner-container .btn{
+	padding-top: 4px;
+	padding-bottom: 4px;  
+}
+
+/* ==========================================================================
+   Property details Page.
+   ========================================================================== */
+.property-green-box{
+	min-height: 740px;
+}
+.price{
+	color: #ED1C24;
+	font-size: 18px;
+	font-weight: bold;
+	padding-top: 8px;
+}
+.property-container{
+	padding: 25px 30px;
+}
+.property-details{
+	padding: 15px;
+	overflow: hidden;
+}
+.property-details .right-box{
+	border: 2px solid #ebebeb;
+	padding: 20px 25px;
+}
+.property-details .right-box{
+	font-size: 18px;
+}	
+.property-details a{
+	text-decoration: underline;
+}
+.property-details .gallery-container{
+	width: 100%;
+}
+.gallery-container img{
+	border: none;
+}
+.gallery-container .main-photo{
+	width: 100%;
+	height: 371px;
+}
+.gallery-container .small-pics{
+	margin-top: 15px;
+}
+.gallery-container .small-pics img{
+	width: 83px;
+	height: 64px;
+}	
+.overflow-block{
+	overflow: hidden;
+}
+.agent-box, .company-box, .description-box{
+	padding: 18px;
+	overflow: hidden;
+}
+.underline-heading{
+	text-decoration: underline;
+	font-size: 18px;
+}
+.agent-box p{
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.company-box p{
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.description-box p{
+	font-size: 14px;
+	margin-bottom: 5px;	
+}
+.description-content{
+	line-height: 20px;
+	font-size: 14px;
+	margin-bottom: 10px;	
+}
+.company{
+	text-transform: uppercase;
+}
+.company-logo{
+	width: 240px;
+	height: 132px;
+}
+.form-control.big-field {
+	font-size: 16px;
+	height: 45px;
+	padding: 10px !important;
+	width: 100% !important;
+}
+.newsletter-danger, .newsletter-success{
+	padding: 5px 0;
+	display: none;
+}
+.newsletter-danger{
+	color: #ED1C24;
+}
+.addthis_default_style .at300b, .addthis_default_style .at300bo, .addthis_default_style .at300m{
+	padding: 0 10px;
+}
+
+
+
+
+
+
+.navbar-control{
+	padding-top: 50px;
+}
+.container-fluid {
+    padding: 0 15px;
+}
